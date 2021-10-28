@@ -19,7 +19,7 @@ namespace TugasLibraryUnitTest
 		{
 			day = new Day();
 		}
-		[Test]
+		[Test] 
 		public void NameOfDayTest()
 		{
 

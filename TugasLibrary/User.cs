@@ -24,5 +24,5 @@ namespace TugasLibrary
             else
                 return false;
         }
-    }
+    } 
 }
